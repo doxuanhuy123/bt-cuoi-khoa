@@ -1,0 +1,38 @@
+.container{
+    width: 1300px;
+    height: 600px;
+    background-image: url("https://images.pexels.com/photos/3184192/pexels-photo-3184192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: 1300px;
+    opacity: 0.9;
+}
+.item1{
+    width: 1300px;
+    height: 100px;
+}
+.item2{
+    width: 1300px;
+    height: 450px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+h1{
+    color:silver;
+    font-size: 60px;
+    background-color: whitesmoke;
+}
+h2{
+    font-size: 30px;
+}
+input{
+    width: 200px;
+    height: 20px;
+    border: 2px solid silver;
+    border-radius: 30px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
